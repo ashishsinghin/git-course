@@ -14,4 +14,5 @@ func Print() {
 
 func featA() {
 	fmt.Println("Feat - A")
+	fmt.Println("Feat - A new")
 }
