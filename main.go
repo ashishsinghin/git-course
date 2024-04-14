@@ -19,4 +19,5 @@ func featA() {
 
 func featC() {
 	fmt.Println("Feat - C")
+	fmt.Println("Feat - A new")
 }
