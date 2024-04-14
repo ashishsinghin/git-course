@@ -11,3 +11,7 @@ func Print() {
 }
 
 // added comment
+
+func featb() {
+	fmt.Println("Added feat-b")
+}
