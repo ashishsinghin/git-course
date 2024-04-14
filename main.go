@@ -16,3 +16,7 @@ func featA() {
 	fmt.Println("Feat - A")
 	fmt.Println("Feat - A new")
 }
+
+func featC() {
+	fmt.Println("Feat - C")
+}
