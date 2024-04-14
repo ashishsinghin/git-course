@@ -27,3 +27,7 @@ func featC() {
 	fmt.Println("Feat - A new")
 
 }
+
+func Try(){
+	
+}
